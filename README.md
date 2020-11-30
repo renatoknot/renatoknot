@@ -12,22 +12,22 @@ Atualmente estou Estudando Desenvolvimento Web com foco em Front End e UI Design
 
 📌 **Tecnologias:**
 
-<img style="margin-left: 4px" src="/icons-readme/html.png"> <b>HTML5</b>
-<img style="margin-left: 4px" src="/icons-readme/css.png"> <b>CSS3</b>
-<img style="margin-left: 4px" src="/icons-readme/javascript.png"> <b>Javascript</b>
-<img style="margin-left: 4px" src="/icons-readme/php-icon.png"> <b>PHP</b>
-<img style="margin-left: 4px" src="/icons-readme/git.png"> <b>Git</b>
+<img style="margin-left: 4px" src="/icons-readme/html.png"> <b>HTML5</b>,
+<img style="margin-left: 4px" src="/icons-readme/css.png"> <b>CSS3</b>,
+<img style="margin-left: 4px" src="/icons-readme/javascript.png"> <b>Javascript</b>,
+<img style="margin-left: 4px" src="/icons-readme/php-icon.png"> <b>PHP</b>,
+<img style="margin-left: 4px" src="/icons-readme/git.png"> <b>Git</b>,
 <img style="margin-left: 4px" src="/icons-readme/bootstrap.png"> <b>Bootstrap</b>
 
 🖥 **Estudarei em breve**
 
-<img style="margin-left: 4px" src="/icons-readme/typescript.png"><b>Typescript</b>
-<img style="margin-left: 4px" src="/icons-readme/sass.png"><b>Sass</b>
-<img style="margin-left: 4px" src="/icons-readme/react.png"><b>React</b>
-<img style="margin-left: 4px" src="https://i.ibb.co/WF3MG5H/unnamed.png" width="20"/> <b>Redux.</b>
-<img style="margin-left: 4px" src="/icons-readme/vue.png"><b>Vue.js</b>
-<img style="margin-left: 4px" src="/icons-readme/figma.png"><b>Figma</b>
-<img style="margin-left: 4px" src="/icons-readme/adobexd.png"><b>Adobe XD</b>
+<img style="margin-left: 4px" src="/icons-readme/typescript.png"><b>Typescript</b>,
+<img style="margin-left: 4px" src="/icons-readme/sass.png"><b>Sass</b>,
+<img style="margin-left: 4px" src="/icons-readme/react.png"><b>React</b>,
+<img style="margin-left: 4px" src="https://i.ibb.co/WF3MG5H/unnamed.png" width="20"/> <b>Redux.</b>,
+<img style="margin-left: 4px" src="/icons-readme/vue.png"><b>Vue.js</b>,
+<img style="margin-left: 4px" src="/icons-readme/figma.png"><b>Figma</b>,
+<img style="margin-left: 4px" src="/icons-readme/adobexd.png"><b>Adobe XD</b>,
 <img style="margin-left: 4px" src="/icons-readme/nodejs.png"><b>Node.js</b>
 
 ## 🎯 **Objetivo Atual:**
