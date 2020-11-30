@@ -6,7 +6,7 @@
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca - RJ (2019), tenho conhecimento e experiência básica com HTML, CSS, Javascript, PHP, MySql.
 
-Atualmente estou Estudando Desenvolvimento Web com foco em Front End e UI Designer pela \*\*[Origamid](https://www.origamid.com/)
+Atualmente estou Estudando Desenvolvimento Web com foco em Front End e UI Designer pela [Origamid](https://www.origamid.com/)
 
 ---
 
