@@ -15,7 +15,7 @@ Atualmente estou Estudando Desenvolvimento Web com foco em Front End e UI Design
 <img style="margin-left: 4px" src="/icons-readme/html.png"> <b>HTML5</b>,
 <img style="margin-left: 4px" src="/icons-readme/css.png"> <b>CSS3</b>,
 <img style="margin-left: 4px" src="/icons-readme/javascript.png"> <b>Javascript</b>,
-<img style="margin-left: 4px" src="/icons-readme/Jquery.png"> <b>Jquery</b>,
+<img style="margin-left: 4px" src="/icons-readme/jquery-356652.ico"> <b>Jquery</b>,
 <img style="margin-left: 4px" src="/icons-readme/php-icon.png"> <b>PHP</b>,
 <img style="margin-left: 4px" src="/icons-readme/git.png"> <b>Git</b>,
 <img style="margin-left: 4px" src="/icons-readme/bootstrap.png"> <b>Bootstrap</b>
