@@ -40,7 +40,7 @@ Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco pr
 
 </center>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/renatoknot/renatoknot/blob/master/devcard.svg" width="400" alt="Renato Gonçalves's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/renatoknot/renatoknot/blob/main/devcard.svg" width="400" alt="Renato Gonçalves's Dev Card"/></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=renatoknot)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoknot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
