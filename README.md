@@ -4,7 +4,7 @@
 
 ### Hello World, sou Renato! 👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca - RJ, tenho conhecimento e experiência básica com HTML, CSS, Javascript/Jquery, PHP, MySql, Git, Bootstrap, React e SASS.
+Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca - RJ, tenho conhecimento e experiência com HTML, CSS, Javascript/Jquery, PHP, MySql, Git, Bootstrap, React e SASS.
 
 Possuo 14 anos de experiência na área de TI como suporte técnico, e migrando para área de Desenvolvimento.
 
