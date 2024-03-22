@@ -8,7 +8,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Unicarioca - RJ, tenh
 
 Possuo 14 anos de experiência na área de TI como suporte técnico, e migrando para área de Desenvolvimento.
 
-Atualmente estou Estudando Desenvolvimento Web com foco em Front-End.
+Atualmente estou Estudando Desenvolvimento Web com foco em Front-End e atuando como Desenvolvedor Pleno na S2 Holding.
 
 <center>
 
@@ -34,9 +34,7 @@ Atualmente estou Estudando Desenvolvimento Web com foco em Front-End.
 
 ## 🎯 **Objetivo Atual:**
 
-Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco principal no Desenvolvimento Front-End a fim de montar meu portfólio e de entrar no mercado de trabalho e poder colaborar com a comunidade.
-
-- Disponivel para oportunidades de **Desenvolvedor Front End Jr**
+Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco principal no Desenvolvimento Front-End.
 
 </center>
 
