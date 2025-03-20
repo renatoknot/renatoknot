@@ -34,7 +34,7 @@ Atualmente estou Estudando Desenvolvimento Web com foco em Front-End e atuando c
 
 ## 🎯 **Objetivo Atual:**
 
-Desenvolver soluções criativas e eficientes, aprimorando constantemente minhas habilidades técnicas e de resolução de problemas, com foco em construir aplicações robustas, escaláveis e de alto desempenho, buscando sempre o equilíbrio entre qualidade de código, experiência do usuário e inovação. teste
+Desenvolver soluções criativas e eficientes, aprimorando constantemente minhas habilidades técnicas e de resolução de problemas, com foco em construir aplicações robustas, escaláveis e de alto desempenho, buscando sempre o equilíbrio entre qualidade de código, experiência do usuário e inovação.
 
 </center>
 
