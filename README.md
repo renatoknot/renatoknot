@@ -14,27 +14,27 @@ Atualmente estou Estudando Desenvolvimento Web com foco em Front-End e atuando c
 
 ## 📌 **Tecnologias:**
 
+<img style="margin-left: 4px" src="/icons-readme/react.png"> <b>React</b>,
+<img style="margin-left: 4px" src="/icons-readme/javascript.png"> <b>Javascript</b>,
+<img style="margin-left: 4px" src="/icons-readme/typescript.png"> <b>Typescript</b>,
+<img style="margin-left: 4px" src="/icons-readme/jquery-356652.ico"> <b>Jquery</b>,
 <img style="margin-left: 4px" src="/icons-readme/html.png"> <b>HTML5</b>,
 <img style="margin-left: 4px" src="/icons-readme/css.png"> <b>CSS3</b>,
-<img style="margin-left: 4px" src="/icons-readme/javascript.png"> <b>Javascript</b>,
-<img style="margin-left: 4px" src="/icons-readme/jquery-356652.ico"> <b>Jquery</b>,
 <img style="margin-left: 4px" src="/icons-readme/php-icon.png"> <b>PHP</b>,
 <img style="margin-left: 4px" src="/icons-readme/git.png"> <b>Git</b>,
 <img style="margin-left: 4px" src="/icons-readme/bootstrap.png"> <b>Bootstrap</b>,
 <img style="margin-left: 4px" src="/icons-readme/sass.png"> <b>Sass</b>,
-<img style="margin-left: 4px" src="/icons-readme/react.png"> <b>React</b>,
 
 ## 🖥 **Estudarei em breve**
 
-<img style="margin-left: 4px" src="/icons-readme/typescript.png"> <b>Typescript</b>,
-<img style="margin-left: 4px" src="https://i.ibb.co/WF3MG5H/unnamed.png" width="20"/> <b>Redux.</b>,
+<img style="margin-left: 4px" src="/icons-readme/Next.js.png"> <b>Next.js</b>,
+<img style="margin-left: 4px" src="/icons-readme/c-sharp.png"> <b>C#</b>,
 <img style="margin-left: 4px" src="/icons-readme/vue.png"> <b>Vue.js</b>,
-<img style="margin-left: 4px" src="/icons-readme/figma.png"> <b>Figma</b>,
 <img style="margin-left: 4px" src="/icons-readme/nodejs.png"> <b>Node.js</b>
 
 ## 🎯 **Objetivo Atual:**
 
-Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco principal no Desenvolvimento Front-End.
+Desenvolver soluções criativas e eficientes, aprimorando constantemente minhas habilidades técnicas e de resolução de problemas, com foco em construir aplicações robustas, escaláveis e de alto desempenho, buscando sempre o equilíbrio entre qualidade de código, experiência do usuário e inovação.
 
 </center>
 
